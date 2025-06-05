@@ -8,7 +8,9 @@ We will review current theories which attempt to explain how and why human langu
 
 ## Presenter
 
-The course will be presented by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) (that's me). The best way to get in touch with me is in class, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
+The course will be presented by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) (that's me). I am the Director of the [Centre for Language Evolution](https://cle.ppls.ed.ac.uk) at [The University of Edinburgh](https://www.ed.ac.uk). 
+
+The best way to get in touch with me is in class, or by email to [kenny.smith@ed.ac.uk](mailto:kenny.smith@ed.ac.uk).
 
 
 ## Class times
