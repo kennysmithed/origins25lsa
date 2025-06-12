@@ -28,7 +28,7 @@ For the required readings I have included links to publisher versions of the art
 
 ### Class 1 (7th July): Evolution
 
-- [Pre-reading](oriigns_reading_class1.md)
+- [Pre-reading](origins_reading_class1.md)
 - Lecture slides
 
 ### Class 2 (10th July): Animal communication and animal cognition
