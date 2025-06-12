@@ -17,15 +17,19 @@ The best way to get in touch with me is in class, or by email to [kenny.smith@ed
 
 Mondays and Thursdays, July 7-July 21, 10:30am - 11:50am.
 
+## Assessment
 
 ## Course Materials
 
 There are required readings for each class: a blog post introducing the topic and highlighting any important points, plus a couple of journal articles/book chapters. I expect you to do these readings **before** the associated class since they provide useful background information and context to what I say in lectures - I will assume you have done them, and you'll have to talk about them. 
 
-### Class 1 (7th July): Introduction
+For the required readings I have included links to publisher versions of the articles, which you will hopefully be able to access through your home institutions straightforwardly. If you are unable to access any paper on the course through this route, follow the instructions on the course Canvas page.
 
-- Pre-reading
-- Slides
+
+### Class 1 (7th July): Evolution
+
+- [Pre-reading](oriigns_reading_class1.md)
+- Lecture slides
 
 ### Class 2 (10th July): Animal communication and animal cognition
 - Pre-reading
