@@ -19,6 +19,8 @@ Mondays and Thursdays, July 7-July 21, 10:30am - 11:50am.
 
 ## Assessment
 
+Each class has an associated quiz (based on the readings) to be completed before the class (by 8am on the day of the class). Grades for the course will be based on your top 4 scores (as a precentage) from these 5 quizzes. Every quiz also has a free-answer text box at the bottom you can use to flag up questions or topics you'd like me to address in class that day - I have a small amount of time to read these and prep something, but I'll do what I can!
+
 ## Course Materials
 
 There are required readings for each class: a blog post introducing the topic and highlighting any important points, plus a couple of journal articles/book chapters. I expect you to do these readings **before** the associated class since they provide useful background information and context to what I say in lectures - I will assume you have done them, and you'll have to talk about them. 
