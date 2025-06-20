@@ -3,7 +3,7 @@ title: Class 2 reading
 description: Cultural evolution of language 1: language evolution in the lab
 ---
 
-*As usual, read this blog, do the reading, and then take the quiz on Canvas to test your understanding / flag up anyu questions you'd like me to address in class.*
+*As per last class, do the reading (shorter this time), and then take the quiz on Canvas to test your understanding / flag up any questions you'd like me to address in class.*
 
 In this lecture I'll discuss how a symbolic, phonemic, compositional language can emerge as a result of cultural transmission, and link this to the process of grammaticalisation studied in historical linguistics - I think one of the strengths of the explanatory approach we are taking to understanding the origins of structure in language in this course is that it offers an approach that unifies language origins and language change as seen in the historical record. 
 
@@ -12,9 +12,9 @@ I'd like you to read two short journal articles: [Kirby, Cornish & Smith (2008)]
 
 ## References
 
-[Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. Proceedings of the National Academy of Sciences, USA, 105, 10681-10686.](https://doi.org/10.1073/pnas.0707835105)
+Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. *Proceedings of the National Academy of Sciences, USA, 105,* 10681-10686.[Link](https://doi.org/10.1073/pnas.0707835105)
 
-[Smith, K. (2022). How language learning and language use create linguistic structure. Current Directions in Psychological Science, 31, 177-186.](https://doi.org/10.1177/09637214211068127)
+Smith, K. (2022). How language learning and language use create linguistic structure. *Current Directions in Psychological Science, 31,* 177-186.[Link](https://doi.org/10.1177/09637214211068127)
 
 
 ## Re-use
