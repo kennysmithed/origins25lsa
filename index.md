@@ -33,7 +33,7 @@ For the required readings I have included links to publisher versions of the art
 - Lecture slides
 
 ### Class 2 (10th July): Cultural evolution of language 1: language evolution in the lab
-- Pre-reading
+- [Pre-reading](origins_reading_class2.md)
 - Slides
 
 ### Class 3 (14th July): Cultural evolution of language 2: other sources of evidence
