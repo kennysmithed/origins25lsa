@@ -19,7 +19,7 @@ Mondays and Thursdays, July 7-July 21, 10:30am - 11:50am.
 
 ## Assessment
 
-Each class has an associated quiz (based on the readings) to be completed before the class (by 8am on the day of the class). Grades for the course will be based on your top 4 scores (as a precentage) from these 5 quizzes. Every quiz also has a free-answer text box at the bottom you can use to flag up questions or topics you'd like me to address in class that day - I have a small amount of time to read these and prep something, but I'll do what I can!
+Each class has an associated quiz (based on the readings) to be completed before the class (by 8am on the day of the class). Grades for the course will be based on your top 4 scores (as a percentage) from these 5 quizzes. Every quiz also has a free-answer text box at the bottom you can use to flag up questions or topics you'd like me to address in class that day - I have a small amount of time on the morning of the lecture to read these and prep something, but I'll do what I can!
 
 ## Course Materials
 
@@ -28,20 +28,19 @@ There are required readings for each class: a blog post introducing the topic an
 For the required readings I have included links to publisher versions of the articles, which you will hopefully be able to access through your home institutions straightforwardly. If you are unable to access any paper on the course through this route, follow the instructions on the course Canvas page.
 
 
-### Class 1 (7th July): Evolution
-
+### Class 1 (7th July): Evolutionary processes shaping language and the capacity for language
 - [Pre-reading](origins_reading_class1.md)
 - Lecture slides
 
-### Class 2 (10th July): Animal communication and animal cognition
+### Class 2 (10th July): Cultural evolution of language 1: language evolution in the lab
 - Pre-reading
 - Slides
 
-### Class 3 (14th July): Cultural evolution of language 1
+### Class 3 (14th July): Cultural evolution of language 2: other sources of evidence
 - Pre-reading
 - Slides
 
-### Class 4 (17th July): Cultural evolution of language 2
+### Class 4 (17th July): Communication and cognition in non-human animals
 - Pre-reading
 - Slides
 

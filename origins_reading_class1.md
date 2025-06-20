@@ -1,11 +1,11 @@
 ---
 title: Class 1 reading
-description: Introduction to evolutionary theory
+description: Evolutionary processes shaping language and the capacity for language
 ---
 
 ## Overview
 
-There is quite a lot of reading for the first class, in order to get you up to speed on the basics of evolutionary theory, how these ideas might apply to the evolution of language, and then to introduce you to the (rather different) explanatory approach I will be taking in these workshops. You will read a brief introduction to evolution by natural selection provided below, [a classic but old paper by Pinker & Bloom](https://www.doi.org/10.1017/S0140525X00081061), and [a short paper by me](https://doi.org/10.1016/j.cobeha.2018.05.003). As per the instructions on the course page, if you are unable to access these or any other papers on the course, follow the instructions on the course Canvas page.
+There is quite a lot of reading for the first class, in order to get you up to speed on the basics of evolutionary theory, how these ideas might apply to the evolution of language, and then to introduce you to the (rather different) explanatory approach I will be taking in these classes. You will read a brief introduction to evolution by natural selection provided below, [a classic but old paper by Pinker & Bloom](https://www.doi.org/10.1017/S0140525X00081061), and [a short paper by me](https://doi.org/10.1016/j.cobeha.2018.05.003). As per the instructions on the course page, if you are unable to access these or any other papers on the course, follow the instructions on the course Canvas page.
 
 
 ## A very brief intro to adaptation and natural selection
