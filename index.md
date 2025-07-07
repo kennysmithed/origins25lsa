@@ -30,7 +30,7 @@ For the required readings I have included links to publisher versions of the art
 
 ### Class 1 (7th July): Evolutionary processes shaping language and the capacity for language
 - [Pre-reading](origins_reading_class1.md)
-- Lecture slides
+- [Lecture slides](slides/origins_lsa_lecture1.pdf)
 
 ### Class 2 (10th July): Cultural evolution of language 1: language evolution in the lab
 - [Pre-reading](origins_reading_class2.md)
