@@ -37,7 +37,7 @@ For the required readings I have included links to publisher versions of the art
 - [Lecture slides](slides/origins_lsa_lecture2.pdf)
 
 ### Class 3 (14th July): Cultural evolution of language 2: advanced topics in iterated learning
-- Pre-reading
+- [Pre-reading](origins_reading_class3.md)
 - Slides
 
 ### Class 4 (17th July): Communication and cognition in non-human animals
