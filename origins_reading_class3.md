@@ -36,8 +36,6 @@ Trudgill, P. (2011). Sociolinguistic Typology: Social Determinants of Linguistic
 
 Wray, A., & Grace, G. W. (2007). The consequences of talking to strangers: Evolutionary corollaries of socio-cultural influences on linguistic form. *Lingua, 117,* 543-578.
 
-
-
 ## Re-use
 
 
