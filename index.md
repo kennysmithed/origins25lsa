@@ -42,7 +42,7 @@ For the required readings I have included links to publisher versions of the art
 
 ### Class 4 (17th July): Communication and cognition in non-human animals
 - [Pre-reading](origins_reading_class4.md)
-- Slides
+- [Lecture slides](slides/origins_lsa_lecture4.pdf)
 
 ### Class 5 (21st July): Gene-culture co-evolution
 - Pre-reading
