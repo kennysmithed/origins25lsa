@@ -1,5 +1,5 @@
 ---
-title: Class 4 reading
+title: Class 5 reading
 description: Gene-culture co-evolution
 ---
 
