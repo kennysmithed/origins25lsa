@@ -46,7 +46,7 @@ For the required readings I have included links to publisher versions of the art
 
 ### Class 5 (21st July): Gene-culture co-evolution
 - [Pre-reading](origins_reading_class5.md)
-- Slides
+- [Lecture slides](slides/origins_lsa_lecture5.pdf)
 
 
 ## Re-use
